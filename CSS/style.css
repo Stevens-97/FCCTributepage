@@ -1,0 +1,120 @@
+header {
+    background: linear-gradient(90deg, rgba(0, 0,0,1) 0%, rgba(255, 255,255,1));
+    background-position: center -500px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 50vh;
+  
+  }
+  
+  #title {
+    position:relative;
+    left:40vh;
+    top: 15vh;
+    text-align: left;
+    width: 90vh;
+    max-height: auto;
+    max-width: auto;
+  }
+  
+  #quote {
+        font-family: "Arial", serif;
+        position: relative;
+        left: 75vh;
+        top: 15vh;
+        text-align: left;
+        height: 155px;
+        width: 25%;
+        color: #FFD3B4;
+        text-shadow: 2px 3px black;
+        max-width: auto;
+        max-height: auto;
+        /* background-color: #98DDCA; */
+  
+  }
+  
+  .main-titles {
+      position: relative;
+      font-family: "Arial", serif;
+      color: #FFAAA7;
+      text-shadow: 3px 2px black;
+      /* background-color: #D5ECC2; */
+      width: 40vh;
+  }
+  
+  #img-caption {
+    position: relative;
+    left: 50px;
+  }
+  
+  body {
+    background-color: black;
+  }
+  
+  .break {
+    height: 1100px;
+  }
+  
+  @media (max-width:650px)
+  
+  .footer {
+    left: 50%;
+  }
+  
+  .main-text {
+    padding: 0.5% 2%;
+    background-attachment: fixed;
+    margin: 1% 2%;
+    background-color: white;
+    border-left: groove;
+    border-right: groove;
+    height: 1020px;
+    font-size: 24px;
+  }
+  
+  #tribute-info {
+    font-family: "Arial", serif;
+    color: black;
+  }
+  
+  #img-div {
+  
+    width: 500px; 
+    height: 300px;
+    float:right;
+  }
+  
+  #image {
+    max-width:60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: auto;
+  }
+  
+  .img-div-2 {
+    width: 500px;
+    height: 300px;
+    float: left;
+  }
+  
+  #image-2 {
+    max-width:80%;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 80%;
+  
+  }
+  
+  .CRISPR {
+      margin-top: 270px;
+      font-size: 24px;
+  }
+  
+  .footer {
+    margin-left: 40%;
+    color: white;
+  }
